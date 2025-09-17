@@ -1,25 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
     <!-- Homepage -->
     <url>
         <loc>https://victor-kirui.vercel.app/</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/kirui-social.jpg</image:loc>
+            <image:title>Victor Kirui - Software Engineer, Blockchain Developer & CEO of SasaTech Africa</image:title>
+            <image:caption>Victor Kirui, Software Engineer, Blockchain Developer, and CEO & Founder of SasaTech Africa, Machine Learning Specialist</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/hero-bg.jpg</image:loc>
+            <image:title>Victor Kirui Portfolio Hero Background</image:title>
+            <image:caption>Professional portfolio background showcasing technology and innovation</image:caption>
+        </image:image>
     </url>
 
     <!-- About Section -->
     <url>
         <loc>https://victor-kirui.vercel.app/#about</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/about-photo.jpg</image:loc>
+            <image:title>Victor Kirui About Photo</image:title>
+            <image:caption>Professional photo of Victor Kirui for the about section</image:caption>
+        </image:image>
     </url>
 
     <!-- Services Section -->
     <url>
         <loc>https://victor-kirui.vercel.app/#services</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -27,24 +44,64 @@
     <!-- Works/Portfolio Section -->
     <url>
         <loc>https://victor-kirui.vercel.app/#portfolio</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/tredit.jpg</image:loc>
+            <image:title>TredIT - E-commerce Platform</image:title>
+            <image:caption>Innovative e-commerce platform with escrow integration</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/school-erp.jpg</image:loc>
+            <image:title>School ERP System</image:title>
+            <image:caption>Enterprise Resource Planning system for schools</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/kitchen360.jpg</image:loc>
+            <image:title>Kitchen360 By JK</image:title>
+            <image:caption>Website and MIS system for Kitchen360 By JK</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/mongo-coffee.jpg</image:loc>
+            <image:title>Mongo Coffee E-Commerce</image:title>
+            <image:caption>E-commerce platform for Mongo Coffee</image:caption>
+        </image:image>
     </url>
 
     <!-- Clients Section -->
     <url>
         <loc>https://victor-kirui.vercel.app/#clients</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/avatars/user-01.jpg</image:loc>
+            <image:title>James Ochieng - Client Testimonial</image:title>
+            <image:caption>Testimonial from James Ochieng about TredIT platform</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/avatars/user-02.jpg</image:loc>
+            <image:title>Peter Mongo - Client Testimonial</image:title>
+            <image:caption>Testimonial from Peter Mongo about Mongo Coffee e-commerce solution</image:caption>
+        </image:image>
     </url>
 
     <!-- Products Section -->
     <url>
         <loc>https://victor-kirui.vercel.app/#products</loc>
-        <lastmod>2024-11-19</lastmod>
+        <lastmod>2024-12-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/school-erp.jpg</image:loc>
+            <image:title>School ERP System Product</image:title>
+            <image:caption>Enterprise Resource Planning system for educational institutions</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://victor-kirui.vercel.app/images/portfolio/school-website.jpg</image:loc>
+            <image:title>Customizable School Website Product</image:title>
+            <image:caption>Professional school website solution with customization options</image:caption>
+        </image:image>
     </url>
 </urlset>

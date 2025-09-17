@@ -1,0 +1,47 @@
+{
+	"name": "victor-kirui-portfolio",
+	"version": "1.0.0",
+	"description": "Professional portfolio website for Victor Kirui (Quaint) - Software Engineer, Blockchain Developer, Business Developer & CEO of SasaTech Africa",
+	"main": "index.html",
+	"scripts": {
+		"start": "npx serve .",
+		"dev": "npx live-server .",
+		"build": "echo 'No build process needed for static site'",
+		"deploy": "vercel --prod"
+	},
+	"keywords": [
+		"portfolio",
+		"software-engineer",
+		"blockchain-developer",
+		"business-developer",
+		"sasatech-africa",
+		"victor-kirui",
+		"quaint",
+		"web-development",
+		"machine-learning",
+		"e-commerce",
+		"erp-systems"
+	],
+	"author": {
+		"name": "Victor Kirui",
+		"email": "kiruivictor097@gmail.com",
+		"url": "https://victor-kirui.vercel.app/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/portfolio2.git"
+	},
+	"bugs": {
+		"url": "https://github.com/your-username/portfolio2/issues"
+	},
+	"homepage": "https://victor-kirui.vercel.app/",
+	"devDependencies": {
+		"live-server": "^1.2.2",
+		"serve": "^14.2.1",
+		"vercel": "^32.0.0"
+	},
+	"engines": {
+		"node": ">=14.0.0"
+	}
+}
